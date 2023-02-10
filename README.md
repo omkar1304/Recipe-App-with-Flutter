@@ -1,5 +1,4 @@
-# 
-AppGuyRecipe
+# AppGuyRecipe
 
 A convenient and interactive platform for capturing, organizing, and accessing online recipes.
 
